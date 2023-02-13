@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "925305259711",
+    "firebase_url": "https://base-de-datos-d22ff-default-rtdb.firebaseio.com",
+    "project_id": "base-de-datos-d22ff",
+    "storage_bucket": "base-de-datos-d22ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925305259711:android:ce574f2ef548ab9d31e80a",
+        "android_client_info": {
+          "package_name": "com.example.app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925305259711-5dj8tbblgfe3iqfg9g3dblqg5virvun0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5S8lkxdhwDNgSLR-UQwA7Zvw9oIuolow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925305259711-5dj8tbblgfe3iqfg9g3dblqg5virvun0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925305259711-rq7h9hgmhb0tes7h8ht57un7822sldnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.prueba"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925305259711:android:4d0cdfbdab3432fc31e80a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appgestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925305259711-5dj8tbblgfe3iqfg9g3dblqg5virvun0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5S8lkxdhwDNgSLR-UQwA7Zvw9oIuolow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925305259711-5dj8tbblgfe3iqfg9g3dblqg5virvun0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925305259711-rq7h9hgmhb0tes7h8ht57un7822sldnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.prueba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

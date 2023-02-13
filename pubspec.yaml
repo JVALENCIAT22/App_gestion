@@ -1,0 +1,37 @@
+name: app_flutter
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+
+  cupertino_icons: ^1.0.5
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.4
+  cloud_firestore: ^4.3.1
+  google_sign_in: ^5.4.4
+  firebase_storage: ^11.0.10
+  image_picker: ^0.8.6+1
+  flutter_slidable: ^2.0.0
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  lints: ^2.0.0
+  test: ^1.21.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - img/logo.png
+    - img/launcher.png
+    - img/perfil.jpg
